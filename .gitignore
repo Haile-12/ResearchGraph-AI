@@ -1,0 +1,36 @@
+# --- Backend (Python) ---
+backend/venv/
+backend/__pycache__/
+backend/*.pyc
+backend/.env
+backend/data/*.db
+backend/data/*.db-journal
+backend/models.txt
+backend/real_research_data.json
+backend/.pytest_cache/
+htmlcov/
+.coverage
+
+# --- Frontend (Node) ---
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+
+# --- IDE & OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.bak
+*.tmp
+*.swp
+
+# --- Credentials & Locals ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local

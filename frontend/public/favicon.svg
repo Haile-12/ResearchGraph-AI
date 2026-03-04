@@ -1,0 +1,17 @@
+<!-- SVG favicon: a small knowledge graph node cluster -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+  <!-- Nodes -->
+  <circle cx="16" cy="6"  r="4" fill="url(#g1)"/>
+  <circle cx="6"  cy="24" r="4" fill="url(#g1)"/>
+  <circle cx="26" cy="24" r="4" fill="url(#g1)"/>
+  <!-- Edges -->
+  <line x1="16" y1="10" x2="6"  y2="20" stroke="url(#g1)" stroke-width="1.5" opacity="0.6"/>
+  <line x1="16" y1="10" x2="26" y2="20" stroke="url(#g1)" stroke-width="1.5" opacity="0.6"/>
+  <line x1="10" y1="24" x2="22" y2="24" stroke="url(#g1)" stroke-width="1.5" opacity="0.6"/>
+</svg>
