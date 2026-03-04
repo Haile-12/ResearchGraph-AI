@@ -1,7 +1,7 @@
 # ResearchGraph AI — Institutional Grade Knowledge Graph Assistant
 
 <div align="center">
-  <img src="./frontend/public/hero-dashboard.png" alt="ResearchGraph AI Interface Preview" width="800" style="border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
+  <img src="image1.png" alt="ResearchGraph AI Interface Preview" width="800" style="border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);" />
 </div>
 
 > **Domain:** Academic Research & Scientific Literature  
