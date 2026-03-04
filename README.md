@@ -169,7 +169,7 @@ npm run dev
 ## 🛠️ Advanced Routing & Reasoning
 
 <div align="center">
-  <img src="./frontend/public/reasoning-trace.png" alt="AI Agent Reasoning Trace" width="800" style="border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); margin: 15px 0" />
+  <img src="image2.png" alt="AI Agent Reasoning Trace" width="800" style="border-radius:12px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); margin: 15px 0" />
 </div>
 
 The system categorizes every request into one of six distinct pipelines to ensure speed and accuracy:
