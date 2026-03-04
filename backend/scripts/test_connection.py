@@ -2,7 +2,7 @@ from neo4j import GraphDatabase
 
 URI = "neo4j://127.0.0.1:7687"
 database="researchgraph"
-AUTH = ("neo4j", "haile1256") # Replace with your password
+AUTH = ("neo4j", "*************") # Replace with your password
 
 def connect_to_graph():
     with GraphDatabase.driver(URI, auth=AUTH) as driver:
